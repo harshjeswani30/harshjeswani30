@@ -138,15 +138,12 @@ A secure, offline-first billing platform designed for retail businesses.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshjeswani30&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjeswani30&layout=compact&hide_border=true" height="170"/>
-
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshjeswani30) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=harshjeswani30&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=harshjeswani30&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshjeswani30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
